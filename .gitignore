@@ -1,31 +1,5 @@
 venv/
-RealEstateRAG/venv/
-
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-
 .env
-
-# HuggingFace cache
-.cache/
-huggingface/
-
-# Models
-*.bin
-*.pt
-*.pth
-*.safetensors
-
-# Vector DB
-*.faiss
-*.index
-vectorstore/
-faiss_index/
-
-# datasets
-data/
-datasets/
-
-# notebooks
-*.ipynb
