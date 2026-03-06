@@ -1,0 +1,15 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+streamlit==1.31.0
+faiss-cpu==1.7.4
+sentence-transformers==2.3.1
+rank_bm25==0.2.2
+transformers==4.37.2
+Pillow==10.2.0
+groq==0.4.2
+python-multipart==0.0.9
+PyPDF2==3.0.1
+pydantic==2.5.3
+numpy==1.26.3
+requests==2.31.0
+python-dotenv==1.0.1
